@@ -1,0 +1,17 @@
+.box div{
+    height: 62px;
+    width: 62px;
+    border: 2px solid black;
+    display:flex;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    align-items: center;
+    justify-content:center;
+
+}
+.box{
+    display: flex;
+ 
+  
+}
